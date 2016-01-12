@@ -43,3 +43,5 @@ def parseLowers(letter):
     return letterStr
 
 print(sentence)
+
+# adding a comment by Carlos 
